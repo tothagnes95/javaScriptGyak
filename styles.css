@@ -1,0 +1,13 @@
+.sarga {
+    background: yellow;
+}
+li {
+    background: lightsalmon;
+}
+.doboz {
+    height: 100px;
+    width: 100px;
+}
+.kontener {
+    display: flex;
+}
